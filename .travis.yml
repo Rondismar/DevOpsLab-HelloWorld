@@ -21,4 +21,4 @@ deploy:
   provider: heroku
   api-key: f3080fc2-1100-45ac-a0be-1d34683bbe64
     secure: $HEROKU_API_KEY
-  app: app4linux
+  app: rlabdevopslinux
